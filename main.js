@@ -8,9 +8,15 @@ body.appendChild(div);
 // Створити заголовок H1 "DOM (Document Object Model)"
 const header = document.createElement('h1');
 header.textContent = 'DOM (Document Object Model)';
+efkvrvkrevkrvrkfrekrfkrfkerfkerfr
 
+dvfdfb,.gfbfdv
+cvdfbf
+vfv
+gfbfdvvbgfb
+ 
 // Додати H1 перед DIV із класом wrapper
-div.insertAdjacentElement('beforebegin', header)
+div.insertAdjacentElement('beforebegin', header);
 // Створити список <ul></ul>
 // Додати до нього 3 елементи з текстом "один, два, три"
 
